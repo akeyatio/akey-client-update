@@ -2,6 +2,12 @@
   "logs": {
     "1.0.3": [
       "您好，AKey Wallet正式上线！"
+    ],
+    
+    "1.1.1": [
+      "1. 新增冷卡功能",
+      "2. 优化用户体验",
+      "3. 优化产品性能"
     ]
   },
 
@@ -18,18 +24,18 @@
     },
     "android_default": {
       "force": false,
-      "url": "http://download.fir.im/apps/5b482250959d6945590b6063/install?download_token=7b6f082d521c5befb72e9f1d03b3f7bf",
-      "version": "1.0.3"
+      "url": "https://apps.akeywallet.com/akey-release-v1.1.1-AKeyWallet.apk",
+      "version": "1.1.1"
     },
     "android_xiaomi": {
       "force": false,
-      "url": "http://download.fir.im/apps/5b482250959d6945590b6063/install?download_token=7b6f082d521c5befb72e9f1d03b3f7bf",
-      "version": "1.0.3"
+      "url": "https://apps.akeywallet.com/akey-release-v1.1.1-AKeyWallet.apk",
+      "version": "1.1.1"
     },
     "android_huawei": {
       "force": false,
-      "url": "http://download.fir.im/apps/5b482250959d6945590b6063/install?download_token=7b6f082d521c5befb72e9f1d03b3f7bf",
-      "version": "1.0.3"
+      "url": "https://apps.akeywallet.com/akey-release-v1.1.1-AKeyWallet.apk",
+      "version": "1.1.1"
     }
   }
 }
