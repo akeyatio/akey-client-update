@@ -14,6 +14,12 @@
       "1. 新增资讯板块", 
       "2. 新增消息功能", 
       "3. 新增地址簿功能"
+    ],
+    
+    "1.3.0": [
+      "1. 增加语言切换功能(简体中文、English)",
+      "2. 优化钱包详情和管理的交互体验",
+      "3. 增加币种一周行情曲线图"
     ]
   },
 
@@ -21,27 +27,27 @@
     "ios_default": {
       "force": false,
       "url": "https://akeywallet.com",
-      "version": "1.1.1"
+      "version": "1.3.0"
     },
     "ios_enterprise": {
       "force": false,
       "url": "https://fir.im/akeywallet",
-      "version": "1.2.0"
+      "version": "1.3.0"
     },
     "android_default": {
       "force": false,
-      "url": "https://apps.akeywallet.com/akey-release-v1.2.0-AKeyWallet.apk",
-      "version": "1.2.0"
+      "url": "https://apps.akeywallet.com/akey-release.apk",
+      "version": "1.3.0"
     },
     "android_xiaomi": {
       "force": false,
-      "url": "https://apps.akeywallet.com/akey-release-v1.2.0-AKeyWallet.apk",
-      "version": "1.2.0"
+      "url": "https://apps.akeywallet.com/akey-release.apk",
+      "version": "1.3.0"
     },
     "android_huawei": {
       "force": false,
-       "url": "https://apps.akeywallet.com/akey-release-v1.2.0-AKeyWallet.apk",
-      "version": "1.2.0"
+       "url": "https://apps.akeywallet.com/akey-release.apk",
+      "version": "1.3.0"
     }
   }
 }
