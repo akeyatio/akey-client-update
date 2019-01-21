@@ -20,13 +20,17 @@
       "1. 增加语言切换功能(简体中文、English)",
       "2. 优化钱包详情和管理的交互体验",
       "3. 增加币种一周行情曲线图"
+    ],
+    
+    "1.3.1": [
+      "1. 修复部分华为手机Android8.0系统上崩溃BUG"
     ]
   },
 
   "market": {
     "ios_default": {
       "force": false,
-      "url": "https://akeywallet.com",
+      "url": "itms://itunes.apple.com/us/app/akey-wallet-安全易用的区块链钱包/id1437701617?mt=8",
       "version": "1.3.0"
     },
     "ios_enterprise": {
@@ -37,17 +41,17 @@
     "android_default": {
       "force": false,
       "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.0"
+      "version": "1.3.1"
     },
     "android_xiaomi": {
       "force": false,
       "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.0"
+      "version": "1.3.1"
     },
     "android_huawei": {
       "force": false,
        "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.0"
+      "version": "1.3.1"
     }
   }
 }
