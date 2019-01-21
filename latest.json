@@ -23,7 +23,8 @@
     ],
     
     "1.3.1": [
-      "1. 修复部分华为手机Android8.0系统上崩溃BUG"
+      "1. 修复部分华为手机Android8.0系统上崩溃BUG",
+      "2. 因系统崩溃无法升级的用户，请到 www.akeywallet.com 更新最新版本"
     ]
   },
 
@@ -41,17 +42,17 @@
     "android_default": {
       "force": false,
       "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.0"
+      "version": "1.3.1"
     },
     "android_xiaomi": {
       "force": false,
       "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.0"
+      "version": "1.3.1"
     },
     "android_huawei": {
       "force": false,
        "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.0"
+      "version": "1.3.1"
     }
   }
 }
