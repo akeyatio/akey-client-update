@@ -41,17 +41,17 @@
     "android_default": {
       "force": false,
       "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.1"
+      "version": "1.3.0"
     },
     "android_xiaomi": {
       "force": false,
       "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.1"
+      "version": "1.3.0"
     },
     "android_huawei": {
       "force": false,
        "url": "https://apps.akeywallet.com/akey-release.apk",
-      "version": "1.3.1"
+      "version": "1.3.0"
     }
   }
 }
